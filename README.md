@@ -16,7 +16,7 @@ When the user starts the application, they are given the option to create a new 
 
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [License](#License
+- [License](#License)
 - [Contributors](#Contributors)
 - [Tests](#Tests)
 - [Technologies](#Technologies)
