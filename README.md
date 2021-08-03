@@ -34,7 +34,7 @@ When the user starts the application, they are given the option to create a new 
 
 - Deployed Link at Heroku
 
-  [View App Here](https://myfitness-tracker-123.herokuapp.com/)
+  [View App Here](https://mybudget-tracker-123.herokuapp.com/)
 
 ## License
 
